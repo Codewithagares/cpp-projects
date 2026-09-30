@@ -1,2 +1,3 @@
-   # C++ Practice Projects
-   A collection of small C++ projects to practice loops, functions, and core programming concepts.
+# C++ Practice Projects
+- Number_Guessing_Game.cpp: a simple guessing game
+- Student_Manager.cpp: student records using classes and vectors (in progress)
